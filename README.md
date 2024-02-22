@@ -28,8 +28,6 @@ Análise exploratória e tratamento dos dados.
 
 Utilização de algoritmos como Regressão Logística, Random Forest, SVM, Gradient Boosting, KNN e Rede Neural.
 
-## Cada pasta contém o respectivo notebook e os arquivos de dados necessários para reproduzir os resultados.
-
 ## Requerimentos
 Os projetos foram desenvolvidos utilizando Python e as seguintes bibliotecas:
 
