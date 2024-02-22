@@ -1,5 +1,5 @@
 # Projetos de Análise de Dados e Machine Learning
-Este repositório contém três projetos de análise de dados e machine learning desenvolvidos por mim (Julio Yamashita).
+Este repositório contém três projetos de análise de dados e machine learning desenvolvidos por mim (Julio Martins).
 
 ## California Housing Price Prediction
 O arquivo California_Housing_Project.ipynb contém uma análise e modelagem para prever o preço de casas utilizando o clássico conjunto de dados California Housing. As etapas incluíram:
